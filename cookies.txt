@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ir.ingersollrand.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	w404fw4zokxw3uhuv1yntaml
+ir.ingersollrand.com	TRUE	/	FALSE	1999999999	ir.ingersollrand.com_Q4_ASPX_PUBLIC_LanguageId	1
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	d6799ba9882519fbeebda4e22a84b58951494515887
+
