@@ -51,6 +51,13 @@ html, .col {
 }
 
 /*~~~~~ APPIAN EMBEDDED CUSTOM STUFF ~~~~~*/
+#appian-embedded-form {
+  background-color: #000 !important;
+}
+
+.TextWidget, .DropdownWidget, .DatePickerWidget, .ParagraphWidget {
+  background-color: #fff !important;
+}
 
 /*~~~~~ **************************** ~~~~~*/
 .listNoStyle ul {
