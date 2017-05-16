@@ -55,7 +55,7 @@ html, .col {
   background-color: #000 !important;
 }
 
-.TextWidget---text, .DropdownWidget, .DatePickerWidget, .ParagraphWidget {
+.TextWidget---textarea, .DropdownWidget, .DatePickerWidget, .ParagraphWidget {
   background-color: #fff !important;
 }
 
