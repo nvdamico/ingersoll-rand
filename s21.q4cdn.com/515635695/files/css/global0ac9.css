@@ -49,6 +49,10 @@ html, .col {
     font-size: 18px;
     line-height: 1;
 }
+
+/*~~~~~ APPIAN EMBEDDED CUSTOM STUFF ~~~~~*/
+
+/*~~~~~ **************************** ~~~~~*/
 .listNoStyle ul {
     margin: 0;
     padding: 0;
@@ -161,7 +165,7 @@ p {
         line-height:30px;
         padding-top:30px;
     }
-    p {   
+    p {
         font-size:14px;
         line-height:20px;
     }
@@ -1322,13 +1326,13 @@ select + .sbHolder + select + .sbHolder + select + .sbHolder {
 
 /*-------- Download List with Tags --------*/
 
-.ModuleDownloadListWithTags .ModuleYearNavContainer a {     
-    display: inline-block;      
-    padding: 10px;      
-    margin-bottom: 5px;     
-    background-color: rgba(0,0,0,0.1);      
-    color: #000;        
-    text-decoration: none;      
+.ModuleDownloadListWithTags .ModuleYearNavContainer a {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: rgba(0,0,0,0.1);
+    color: #000;
+    text-decoration: none;
 }
 .ModuleDownloadListWithTags .ModuleItemRow {
     padding: 10px 40px 10px 0;
@@ -1362,7 +1366,7 @@ select + .sbHolder + select + .sbHolder + select + .sbHolder {
 .ModuleDownloadListWithTags .ModuleDate,
 .ModuleDownloadListWithTags .ModuleFileSizeText,
 .ModuleDownloadListWithTags .ModuleIcon {
-    display: none;   
+    display: none;
 }
 
 /*------------- Event Modules -------------*/
@@ -1611,7 +1615,7 @@ select + .sbHolder + select + .sbHolder + select + .sbHolder {
     padding-bottom: 10px;
 }
 .FormBuilderContainer .CaptchaContainer img {
-    width: 100%   
+    width: 100%
 }
 .FormBuilderContainer .CaptchaContainer span {
     color: #FF0000;
@@ -2272,7 +2276,7 @@ div.prDetails .PageDefaultInner .PaneRight {
 }
 .committee-composition .person-category[class*="active"] .person-header i:before {
     content: "\e607";
-} 
+}
 
 .committee-composition .person-item:nth-child(odd) {
     background-color: #f4f4f4;
@@ -2417,7 +2421,7 @@ div.prDetails .PageDefaultInner .PaneRight {
 @media screen and (max-width: 768px) {
     #events-calendar, #latest-events {
         display: inline-block;
-    } 
+    }
 }
 
 /*---------- Fancybox Captcha -------------*/
@@ -2621,8 +2625,8 @@ div.prDetails .PageDefaultInner .PaneRight {
     .financial-table .financial-year-list .slick-list {
         margin: 0 38px;
     }
-    .financial-table .financial-document-category, 
-    .financial-table .financial-year-list .slick-list, 
+    .financial-table .financial-document-category,
+    .financial-table .financial-year-list .slick-list,
     .financial-table .financial-category-text {
         padding: 12px;
     }
@@ -2632,8 +2636,8 @@ div.prDetails .PageDefaultInner .PaneRight {
     .financial-table .financial-year-list .slick-list {
         margin: 0 46px;
     }
-    .financial-table .financial-document-category, 
-    .financial-table .financial-year-list .slick-list, 
+    .financial-table .financial-document-category,
+    .financial-table .financial-year-list .slick-list,
     .financial-table .financial-category-text {
         padding: 10px 3px;
     }
@@ -2794,7 +2798,7 @@ body {
     background-color: #191919;
 }
 a {
-    text-decoration: none; 
+    text-decoration: none;
     color: #d52b1e;
 }
 a:hover,
@@ -2804,7 +2808,7 @@ a[href^="tel"]:hover {
 a[href^="tel"] {
     color:#191919;
 }
-@media screen and (max-width: 767px) { 
+@media screen and (max-width: 767px) {
     a {
         word-wrap: break-word;
     }
@@ -3224,7 +3228,7 @@ div.pre-module-text {
     vertical-align: middle;
 }
 .StockQuoteTop .wrap-price {
-    display:inline-block; 
+    display:inline-block;
 }
 .PaneHeader .StockQuoteTop .StockDescription1 span {
     margin-top:-2px;
@@ -3243,7 +3247,7 @@ div.pre-module-text {
 }
 .Country span.toggle:after {
     font-family: 'q4icons' !important;
-    content: "\e64a"; 
+    content: "\e64a";
     display:inline-block;
     padding-left:5px;
     font-size:10px;
@@ -3474,7 +3478,7 @@ div.pre-module-text {
 .HomeSlider a.more {
     margin-top:27px;
 }
-.HomeSlider .slick-prev, 
+.HomeSlider .slick-prev,
 .HomeSlider .slick-next {
     display:none;
 }
@@ -3485,7 +3489,7 @@ div.TopLinksMobile,
     display:none;
 }
 .PaneBreadcrumb {
-    background:#e5e5e5; 
+    background:#e5e5e5;
     position:absolute;
     width:100%;
     z-index:6;
@@ -3524,12 +3528,12 @@ div.TopLinksMobile,
         width:200px;
     }
 }
-@media screen and (max-width: 1163px) { 
+@media screen and (max-width: 1163px) {
     .SecondaryNav .level2 > li {
         padding: 0 34px;
     }
 }
-@media screen and (max-width: 1155px) { 
+@media screen and (max-width: 1155px) {
     .CorpLink a {
         padding-right:15px;
     }
@@ -3673,11 +3677,11 @@ div.TopLinksMobile,
         padding: 15px 0 15px 10px;
     }
     .PaneBreadcrumb .ModuleSearch {
-        display:block; 
+        display:block;
         position:relative;
         padding: 30px 20px 0;
         top:0;
-        background:#e5e5e5; 
+        background:#e5e5e5;
     }
     .PaneBreadcrumb .ModuleSearch .SearchButton {
         margin-top:0;
@@ -3687,7 +3691,7 @@ div.TopLinksMobile,
         display:none;
     }
     .CorpLinkMob {
-        background:#fff; 
+        background:#fff;
         padding:15px 20px;
     }
     .CorpLinkMob a {
@@ -3716,7 +3720,7 @@ div.TopLinksMobile,
     .CountryMob {
         clear: left;
         padding: 30px 20px;
-        background:#e5e5e5; 
+        background:#e5e5e5;
     }
     .CountryMob .toggle {
         font-weight:600;
@@ -3738,7 +3742,7 @@ div.TopLinksMobile,
     }
     .OurBrandsMob {
         padding:0 20px 20px;
-        background:#e5e5e5; 
+        background:#e5e5e5;
     }
     .OurBrandsMob .title {
         display:block;
@@ -3804,8 +3808,8 @@ div.TopLinksMobile,
     .SecondaryNav .level2 li:last-child .level3 {
         width: 100%;
     }
-    .SecondaryNav .level2 > li.selected > a, 
-    .SecondaryNav .level2 > li.expanded > a, 
+    .SecondaryNav .level2 > li.selected > a,
+    .SecondaryNav .level2 > li.expanded > a,
     .SecondaryNav .level2 > li:hover {
         color:#fff;
     }
@@ -3865,11 +3869,11 @@ div.TopLinksMobile,
     .StockQuoteTop span.StockDescription1 span {
         margin-top:-1px;
     }
-    .PaneHeader .StockQuoteTop .StockPriceUp, 
+    .PaneHeader .StockQuoteTop .StockPriceUp,
     .PaneHeader .StockQuoteTop .StockPriceDown {
         font-size: 12px;
     }
-    .PaneHeader .StockQuoteTop .StockChange.StockPriceUp:before, 
+    .PaneHeader .StockQuoteTop .StockChange.StockPriceUp:before,
     .PaneHeader .StockQuoteTop .StockChange.StockPriceDown:before {
         top:2px;
     }
@@ -4049,7 +4053,7 @@ div.FooterLinks {
     text-transform:uppercase;
 }
 .WrapQ4Footer {
-    border-bottom:1px solid #d52b1e; 
+    border-bottom:1px solid #d52b1e;
     padding:10px 0;
 }
 .WrapQ4Footer .ModuleOuterContainer {
@@ -4113,7 +4117,7 @@ div.FooterLinks {
         width:84%;
     }
     .Breadcrumb {
-        padding: 40px 0 30px 0; 
+        padding: 40px 0 30px 0;
     }
 }
 
@@ -4180,7 +4184,7 @@ div.FooterLinks {
 @media screen and (max-width: 767px) {
     .Breadcrumb {
         font-size:30px;
-        padding: 40px 0 30px;  
+        padding: 40px 0 30px;
     }
     .WrapQ4Footer {
         padding:25px 0;
@@ -4608,7 +4612,7 @@ div.FooterLinks {
     color:#fff;
 }
 .PaneContent .EventsHome {
-    display:none; 
+    display:none;
 }
 .BannerHero .text {
     display:none;
@@ -4747,7 +4751,7 @@ div.FooterLinks {
     .LatestQuarter .documents li a:before {
         font-size:27px;
     }
-    .LatestQuarter .slick-prev:before, 
+    .LatestQuarter .slick-prev:before,
     .LatestQuarter .slick-next:before {
         font-size:18px;
     }
@@ -4836,7 +4840,7 @@ div.FooterLinks {
 }
 .ModuleEvent a.q4-atc-button:before,
 .ModuleEventDetails a.q4-atc-button:before {
-    content: "\e630"; 
+    content: "\e630";
     font-family: 'q4icons' !important;
     font-weight: normal;
     font-size:20px;
@@ -5025,7 +5029,7 @@ div.FooterLinks {
     min-height: 280px;
 }
 .news_widget .ModuleItemRow:nth-child(-n+3) .bg {
-    border-top: 1px solid #cccccc; 
+    border-top: 1px solid #cccccc;
 }
 .news_widget .social {
     bottom: 20px;
@@ -5253,7 +5257,7 @@ div.FooterLinks {
 .stock-historical .stock-table ul li.bd {
     border-top: 1px solid #cccccc;
 }
-.stock-historical .stock-table ul li:nth-child(3n+2), 
+.stock-historical .stock-table ul li:nth-child(3n+2),
 .stock-historical .stock-table ul li:nth-child(3n) {
     margin-left: 4%;
 }
@@ -5487,7 +5491,7 @@ div.FooterLinks {
 #calculator-popup-container {
     width: 96%;
 }
-.ui-state-default, .ui-widget-content .ui-state-default, 
+.ui-state-default, .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
     font-size:14px;
     font-weight:normal;
@@ -5515,7 +5519,7 @@ div.FooterLinks {
 }
 
 @media screen and (max-width: 1120px) {
-    .calc-widget-investment-calculator .calc-row > span, 
+    .calc-widget-investment-calculator .calc-row > span,
     .calc-widget-investment-calculator .calc-input-group {
         display:block;
     }
@@ -5578,7 +5582,7 @@ div.FooterLinks {
     .stock-historical .col-1-of-3 {
         width: 100%;
     }
-    .stock-historical .stock-table ul li:nth-child(3n+2), 
+    .stock-historical .stock-table ul li:nth-child(3n+2),
     .stock-historical .stock-table ul li:nth-child(3n) {
         margin-left: 0;
     }
@@ -5664,9 +5668,9 @@ div.FooterLinks {
         width: 100%;
         padding:10px;
     }
-    .RegulatoryFilingContainer .ModuleHeader > span, 
-    .RegulatoryFilingContainer .ModuleItemRow div > span, 
-    .RegulatoryFilingContainer .ModuleItemRow div > a, 
+    .RegulatoryFilingContainer .ModuleHeader > span,
+    .RegulatoryFilingContainer .ModuleItemRow div > span,
+    .RegulatoryFilingContainer .ModuleItemRow div > a,
     .RegulatoryFilingContainer .ModuleItemRow div > ul {
         margin-top:0;
     }
@@ -5679,9 +5683,9 @@ div.FooterLinks {
         vertical-align: top;
         width: 33%;
     }
-    .RegulatoryFilingContainer .ModuleItemRow .ItemDate, 
-    .RegulatoryFilingContainer .ModuleItemRow .ItemHref, 
-    .RegulatoryFilingContainer .ModuleItemRow .ItemDescription, 
+    .RegulatoryFilingContainer .ModuleItemRow .ItemDate,
+    .RegulatoryFilingContainer .ModuleItemRow .ItemHref,
+    .RegulatoryFilingContainer .ModuleItemRow .ItemDescription,
     .RegulatoryFilingContainer .ModuleItemRow .Icons {
         display: block;
         float: left;
@@ -5694,9 +5698,9 @@ div.FooterLinks {
 }
 
 @media only screen and (max-width:767px) {
-    .RegulatoryFilingContainer .ModuleItemRow .ItemDate, 
-    .RegulatoryFilingContainer .ModuleItemRow .ItemHref, 
-    .RegulatoryFilingContainer .ModuleItemRow .ItemDescription, 
+    .RegulatoryFilingContainer .ModuleItemRow .ItemDate,
+    .RegulatoryFilingContainer .ModuleItemRow .ItemHref,
+    .RegulatoryFilingContainer .ModuleItemRow .ItemDescription,
     .RegulatoryFilingContainer .ModuleItemRow .Icons {
         line-height: 18px;
         font-size:14px;
@@ -5799,7 +5803,7 @@ div.FooterLinks {
     content: "\e601";
 }
 @media only screen and (max-width:768px) {
-    .committee-composition .person-header > div ~ div, 
+    .committee-composition .person-header > div ~ div,
     .committee-composition .person-item > div > div ~ div {
         padding-right: 5px;
         text-align: right;
@@ -5829,7 +5833,7 @@ div.FooterLinks {
 .subscribe-text p {
     margin-bottom:0;
 }
-.PaneContent .MailingListSignupContainer table, 
+.PaneContent .MailingListSignupContainer table,
 .MailingListUnsubscribeContainer table {
     max-width:450px;
 }
@@ -5901,7 +5905,7 @@ div.FooterLinks {
     .PaneContent .MailingListSignupContainer[style*="DISPLAY:block;"] {
         padding:40px 50px;
     }
-    .MailingListActivationContainer, 
+    .MailingListActivationContainer,
     .MailingListUnsubscribeAction {
         padding:40px 50px;
     }
@@ -5914,7 +5918,7 @@ div.FooterLinks {
     .PaneContent .MailingListSignupContainer[style*="DISPLAY:block;"] {
         padding:40px 20px;
     }
-    .MailingListActivationContainer, 
+    .MailingListActivationContainer,
     .MailingListUnsubscribeAction {
         padding:40px 20px;
     }
@@ -6075,7 +6079,7 @@ small {
     position:static;
 }
 .BannerHero .ModuleEvent a.q4-atc-button:before {
-    color:#fff; 
+    color:#fff;
     top:-3px;
 }
 .BannerHero .ModuleEvent .ModuleFooter {
@@ -6131,10 +6135,10 @@ small {
 .a2a_s_a2a {
     background:#ff5c3e !important;
 }
-.add-to-any-news .a2a_default_style .a2a_count, 
-.add-to-any-news .a2a_default_style .a2a_svg, 
-.add-to-any-news .a2a_floating_style .a2a_svg, 
-.add-to-any-news .a2a_vertical_style .a2a_count, 
+.add-to-any-news .a2a_default_style .a2a_count,
+.add-to-any-news .a2a_default_style .a2a_svg,
+.add-to-any-news .a2a_floating_style .a2a_svg,
+.add-to-any-news .a2a_vertical_style .a2a_count,
 .add-to-any-news .a2a_menu .a2a_svg {
     border-radius: 0;
 }
@@ -6253,7 +6257,7 @@ small {
     width:654px;
 }
 @media screen and (max-width: 767px) {
-    .ModulePressReleaseDetails .left-box, 
+    .ModulePressReleaseDetails .left-box,
     .ModulePressReleaseDetails .right-box {
         width:100%;
     }
